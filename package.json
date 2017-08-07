@@ -1,6 +1,6 @@
 {
   "name": "salesforce-jwt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SalesForce Auth 2.0 JWT Bearer Token Flow Implementation",
   "main": "./lib/index.js",
   "dependencies": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/leandrob/node-salesforce-jwt.git"
+    "url": "https://github.com/amocoma/node-salesforce-jwt.git"
   },
   "keywords": [
     "Salesforce",
